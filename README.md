@@ -1,3 +1,3 @@
 Website in Action
 
-https://amy-ss.github.io/AscentAcademy_WeatherApp/
+https://amy-ss.github.io/WeatherApp/
